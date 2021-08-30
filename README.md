@@ -4,4 +4,4 @@
 ## Consulta API Weather
 ## Styled-components
 
-![](https://imgur.com/0ohdY3r.gif)
+![Imgur](https://imgur.com/6PjiD5E.gif)
