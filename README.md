@@ -4,4 +4,4 @@
 ## Consulta API Weather
 ## Styled-components
 
-![Imgur](https://imgur.com/6PjiD5E.gif)
+<img src="./github/weather.gif" alt="weather" >
